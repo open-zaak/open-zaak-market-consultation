@@ -16,7 +16,7 @@ Als je vragen hebt over deze consultatie, aarzel dan niet om [een issue aan te m
 
 The goal of this market consultation is to invite market parties to help set up the OpenZaak community. This includes co-creating codebase governance, community dynamics, and the product marketing around OpenZaak in a way that allows you to pursue a sustainable business model.
 
-Below you can find an introductory cover letter, a set of proposals and questions, a draft governance.md, and **how to respond to this consultation. The responses should be received by 1-5-2020 before 17:00.** 
+Below you can find an introductory cover letter, a set of proposals and questions, a draft governance.md, and **how to respond to this consultation. The responses should be received by 1-5-2020 before 17:00.**
 
 If you have any questions about this consultation, please feel free to [create an issue](https://github.com/open-zaak/openzaak-market-consultation/issues/new/choose) or email Niels Lindeboom at niels.lindeboom@dimpact.nl.
 
@@ -24,13 +24,13 @@ If you have any questions about this consultation, please feel free to [create a
 
 Introduction / Inleiding
 
-* [English](https://hackmd.io/BwMPNgCkTRWfCKxjZVsmiA)
-* [Nederlands](https://hackmd.io/qBwWGvmvSk6IwhabTgsrtw)
+* [English](introduction-en.md)
+* [Nederlands](introduction-nl.md)
 
 Our proposals and questions / Onze voorstellen en vragen
 
-* [English](https://hackmd.io/XJ0rLW4pQXCJjZIw9A7ArQ)
-* [Nederlands](https://hackmd.io/OFGiBKmLSh6ug7Gpv3Hbzw)
+* [English](questions-en.md)
+* [Nederlands](questions-nl.md)
 
 OpenZaak codebase
 
@@ -40,5 +40,5 @@ OpenZaak codebase
 
 How to respond / Hoe te reageren
 
-* [English](https://hackmd.io/AQOmgrpSQIeMVC4OhFxKDA)
-* [Nederlands](https://hackmd.io/NT4ywg6bSReSgsocu1HFXw)
+* [English](how-to-respond-en.md)
+* [Nederlands](how-to-respond-nl.md)
