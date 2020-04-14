@@ -87,6 +87,6 @@ Many of the day-to-day project maintenance tasks can be done by a lazy consensus
 
 ## Code of Conduct
 
-OpenZaak's Code of Conduct is explained in [this project's code of conduct](code-of-conduct.md).
+OpenZaak's Code of Conduct is explained in [this project's code of conduct](CODE_OF_CONDUCT.md).
 
 If the possible violation involves a team member that member will be recused from voting on the issue. Such issues must be escalated to the product steering team contact, and the product steering team may choose to intervene.
