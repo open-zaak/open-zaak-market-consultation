@@ -1,4 +1,4 @@
-| <a href="README.md">Home</a> | <a href="introduction-en.md">Introduction</a> | <a href="introduction-en.md">Our proposals and questions</a> | How to respond |
+| <a href="README.md">Home</a> | <a href="introduction-en.md">Introduction</a> | <a href="questions-en.md">Our proposals and questions</a> | How to respond |
 | -------- | -------- | -------- | -------- |
 
 # How to respond
@@ -39,5 +39,5 @@ We will produce an anonymized report after interested parties have answered the 
 
 This document is for market consultation purposes only. It is made available on the express condition that it will only be used to provide suggestions and ideas. Participation in this market consultation cannot lead to obligations on the part of the participating market parties to enter into agreements with the participating municipalities or Dimpact, and vice versa. Market consultation participation does not entail any reimbursement of costs.
 
-| <a href="README.md">Home</a> | <a href="introduction-en.md">Introduction</a> | <a href="introduction-en.md">Our proposals and questions</a> | How to respond |
+| <a href="README.md">Home</a> | <a href="introduction-en.md">Introduction</a> | <a href="questions-en.md">Our proposals and questions</a> | How to respond |
 | -------- | -------- | -------- | -------- |
