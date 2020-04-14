@@ -1,11 +1,6 @@
----
-tags: openzaak
-URL: Open-Zaak/market-consultation/questions-en.md
----
-
 # Our proposals and questions
 
-<div class="navoz"><a href="https://hackmd.io/b6mszG6HRjyDGRCi72_y2w">Home</a> | <a href="https://hackmd.io/BwMPNgCkTRWfCKxjZVsmiA">Introduction</a> | Our proposals and questions | <a href="https://hackmd.io/AQOmgrpSQIeMVC4OhFxKDA">How to respond</a></div>
+<div class="navoz"><a href="README.md">Home</a> | <a href="introduction-en.md">Introduction</a> | Our proposals and questions | <a href="how-to-respond-en.md">How to respond</a></div>
 
 This page contains three sections:
 
@@ -167,21 +162,21 @@ For the community to scale effectively, we assume there should be a set of neutr
 2. What kind of influence would you like over this material and the website?
 3. Should vendors be asked as part of their contracts to contribute what they’ve learned from implementing and supporting OpenZaak to the OpenZaak marketing material (including for example user testimonials, business cases, etc)?
 
-<div class="navoz"><a href="https://hackmd.io/b6mszG6HRjyDGRCi72_y2w">Home</a> | <a href="https://hackmd.io/BwMPNgCkTRWfCKxjZVsmiA">Introduction</a> | Our proposals and questions | <a href="https://hackmd.io/AQOmgrpSQIeMVC4OhFxKDA">How to respond</a></div>
+<div class="navoz"><a href="README.md">Home</a> | <a href="introduction-en.md">Introduction</a> | Our proposals and questions | <a href="how-to-respond-en.md">How to respond</a></div>
 
 <style>
 div.navoz {
-clear: all; 
-float:left; 
-width: 100%; 
+clear: all;
+float:left;
+width: 100%;
 padding: 1em;
-margin-bottom: 20px; 
-border: 1px solid #bce8f1; 
-background: #D8ECF7; 
-text-align: left; 
-font-size: 100%; 
-line-height: 1.5em; 
-border-radius: 5px; 
+margin-bottom: 20px;
+border: 1px solid #bce8f1;
+background: #D8ECF7;
+text-align: left;
+font-size: 100%;
+line-height: 1.5em;
+border-radius: 5px;
 color: #31708f;
 }
 </style>
