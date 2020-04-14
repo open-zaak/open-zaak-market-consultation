@@ -1,7 +1,7 @@
-# Our proposals and questions
-
 | <a href="README.md">Home</a> | <a href="introduction-en.md">Introduction</a> | Our proposals and questions | <a href="how-to-respond-en.md">How to respond</a> |
 | -------- | -------- | -------- | -------- |
+
+# Our proposals and questions
 
 This page contains three sections:
 
