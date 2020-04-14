@@ -1,6 +1,6 @@
-# Inleiding: Open uitnodiging voor marktpartijen om lid te worden van de OpenZaak community 
+# Inleiding: Open uitnodiging voor marktpartijen om lid te worden van de OpenZaak community
 
-<div class="navoz"><a href="https://hackmd.io/b6mszG6HRjyDGRCi72_y2w">Home</a> | Inleiding | <a href="https://hackmd.io/OFGiBKmLSh6ug7Gpv3Hbzw">Onze voorstellen en vragen</a> | <a href="https://hackmd.io/NT4ywg6bSReSgsocu1HFXw">Reageren op de marktconsultatie</a></div>
+<div class="navoz"><a href="README.md">Home</a> | Inleiding | <a href="questions-nl.md">Onze voorstellen en vragen</a> | <a href="how-to-respond-nl.md">Reageren op de marktconsultatie</a></div>
  
 OpenZaak is een open source codebase gebouwd in opdracht van een coalitie van meer dan 45 gemeenten waaronder Amsterdam, Arnhem, Delft, Haarlem, 's-Hertogenbosch, Rotterdam, Tilburg, Hoorn, Medemblik, Utrecht, SED (bestaande uit Stede Broec, Enkhuizen en Drechterland) en Dimpact (bestaande uit meer dan 30 gemeenten).
 
@@ -26,21 +26,21 @@ De antwoorden moeten voor 1-5-2020 worden ontvangen door Niels Lindeboom. Op bas
 
 Deze marktconsultatie wordt georganiseerd door [Dimpact](https://www.dimpact.nl/), in opdracht van de OpenZaak gemeenten, ondersteund door de [Foundation for Public Code](https://publiccode.net/).
 
-<div class="navoz"><a href="https://hackmd.io/b6mszG6HRjyDGRCi72_y2w">Home</a> | Inleiding | <a href="https://hackmd.io/OFGiBKmLSh6ug7Gpv3Hbzw">Onze voorstellen en vragen</a> | <a href="https://hackmd.io/NT4ywg6bSReSgsocu1HFXw">Reageren op de marktconsultatie</a></div>
+<div class="navoz"><a href="README.md">Home</a> | Inleiding | <a href="questions-nl.md">Onze voorstellen en vragen</a> | <a href="how-to-respond-nl.md">Reageren op de marktconsultatie</a></div>
 
 <style>
 div.navoz {
-clear: all; 
-float:left; 
-width: 100%; 
+clear: all;
+float:left;
+width: 100%;
 padding: 1em;
-margin-bottom: 20px; 
-border: 1px solid #bce8f1; 
-background: #D8ECF7; 
-text-align: left; 
-font-size: 100%; 
-line-height: 1.5em; 
-border-radius: 5px; 
+margin-bottom: 20px;
+border: 1px solid #bce8f1;
+background: #D8ECF7;
+text-align: left;
+font-size: 100%;
+line-height: 1.5em;
+border-radius: 5px;
 color: #31708f;
 }
 </style>
