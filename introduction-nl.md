@@ -17,13 +17,13 @@ De OpenZaak codebase helpt Nederlandse gemeenten om te voldoen aan de [VNG-stand
 
 De deelnemende gemeenten zijn op zoek naar geïnteresseerde leveranciers om hen te ondersteunen bij de implementatie van de codebase (onder meer in de ontwikkeling, onderhoud, implementatie en ondersteuning). De ambitie is om een gezonde open source community te hebben waarin leveranciers de mogelijkheid krijgen om de markt voor OpenZaak te laten groeien, en waarin inkoop wordt vereenvoudigd en gestandaardiseerd.
 
-Hiervoor vinden we het belangrijk om een open en collaboratieve gemeenschap te hebben, inclusief één codebase met een gemeenschappelijke governancestructuur en een gedeeld begrip over bugfixes en -ondersteuning. Meer informatie over de behoeften, conceptvisie en open vragen van de gemeenten is te vinden in [onze voorstellen en vragen](https://hackmd.io/OFGiBKmLSh6ug7Gpv3Hbzw) en het [draft governance.md document](governance.md).
+Hiervoor vinden we het belangrijk om een open en collaboratieve gemeenschap te hebben, inclusief één codebase met een gemeenschappelijke governancestructuur en een gedeeld begrip over bugfixes en -ondersteuning. Meer informatie over de behoeften, conceptvisie en open vragen van de gemeenten is te vinden in [onze voorstellen en vragen](questions-nl.md) en het [draft governance.md document](governance.md).
 
 ## Over deze marktconsultatie
 
-Marktpartijen die geïnteresseerd zijn in deelname worden gevraagd [onze voorstellen en vragen](https://hackmd.io/OFGiBKmLSh6ug7Gpv3Hbzw?both) zorgvuldig te herzien en te reageren op de daar genoemde vragen.
+Marktpartijen die geïnteresseerd zijn in deelname worden gevraagd [onze voorstellen en vragen](questions-nl.md) zorgvuldig te herzien en te reageren op de daar genoemde vragen.
 
-De antwoorden moeten voor 1-5-2020 worden ontvangen door Niels Lindeboom. Op basis van deze antwoorden kunnen marktpartijen samen met de gemeenten worden uitgenodigd voor één of meerdere workshops om te bepalen hoe de OpenZaak-gemeenschap kan worden opgezet. Meer informatie over dit marktraadplegingsproces is te vinden in [hoe te reageren](https://hackmd.io/NT4ywg6bSReSgsocu1HFXw?both).
+De antwoorden moeten voor 1-5-2020 worden ontvangen door Niels Lindeboom. Op basis van deze antwoorden kunnen marktpartijen samen met de gemeenten worden uitgenodigd voor één of meerdere workshops om te bepalen hoe de OpenZaak-gemeenschap kan worden opgezet. Meer informatie over dit marktraadplegingsproces is te vinden in [hoe te reageren](how-to-respond-nl.md).
 
 Deze marktconsultatie wordt georganiseerd door [Dimpact](https://www.dimpact.nl/), in opdracht van de OpenZaak gemeenten, ondersteund door de [Foundation for Public Code](https://publiccode.net/).
 
