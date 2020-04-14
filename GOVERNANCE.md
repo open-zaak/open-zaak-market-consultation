@@ -1,5 +1,5 @@
 
-# DRAFT: OpenZaak codebase goverance
+# DRAFT: OpenZaak codebase governance
 
 ## Introduction
 
@@ -12,13 +12,13 @@ As a community we want make it easier for new users to become contributors and m
 The OpenZaak community adheres to the following principles:
 
 * OpenZaak is open source.
-* We're a welcoming and respectful community as mentioned in our [Code of Conduct](#Code-of-Conduct).
+* We're a welcoming and respectful community as mentioned in our [Code of Conduct](code-of-conduct.md).
 * Transparent and accessible, changes to the OpenZaak organization, OpenZaak code repositories, and OpenZaak related activities (e.g. level, involvement, etc) are done in public.
 * Ideas and contributions are accepted according to their technical merit and alignment with project objectives, scope, and design principles.
 
 The maintainers of OpenZaak have two steering teams, a technical one and a product one.
 
-Through codebase stewardship the Foundation for Public Code supports the governance of OpenZaak, the product and technical steering teams, and its community.
+Through codebase stewardship the [Foundation for Public Code](https://publiccode.net/) supports the governance of OpenZaak, the product and technical steering teams, and its community.
 
 ## Technical steering team
 
@@ -87,6 +87,6 @@ Many of the day-to-day project maintenance tasks can be done by a lazy consensus
 
 ## Code of Conduct
 
-OpenZaak's Code of Conduct is explained in [this project's code of conduct](https://hackmd.io/I9xVIG33THuBSFmg1zlkQA).
+OpenZaak's Code of Conduct is explained in [this project's code of conduct](code-of-conduct.md).
 
 If the possible violation involves a team member that member will be recused from voting on the issue. Such issues must be escalated to the product steering team contact, and the product steering team may choose to intervene.
