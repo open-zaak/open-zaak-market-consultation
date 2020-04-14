@@ -1,4 +1,4 @@
-| <a href="README.md">Home</a> | <a href="introduction-nl.md">Inleiding</a> | <a href="questions-nl.md">Onze voorstellen en vragen</a> | Reageren op de marktconsultatie |
+| <a href="README.md">Home</a> | <a href="introduction-nl.md">Inleiding</a> | <a href="questions-nl.md">Onze voorstellen en vragen</a> | Reageren op de marktconsultatie  |
 | -------- | -------- | -------- | -------- | -------- |
 
 # Hoe te reageren
@@ -39,5 +39,5 @@ Nadat de geïnteresseerde partijen de vragen uit het marktconsultatiedocument he
 
 Dit document is alleen bestemd voor marktconsultatie doeleinden. Het wordt ter beschikking gesteld onder de uitdrukkelijke voorwaarde dat het uitsluitend gebruikt wordt om suggesties en ideeën aan te reiken. Een deelname aan deze marktconsultatie kan niet leiden tot verplichtingen van de deelnemende marktpartijen om overeenkomsten met de deelnemende gemeenten of Dimpact aan te gaan, en vice versa. Aan de deelname van de marktconsultatie is geen vergoeding van kosten verbonden.
 
-| <a href="README.md">Home</a> | <a href="introduction-nl.md">Inleiding</a> | <a href="questions-nl.md">Onze voorstellen en vragen</a> | Reageren op de marktconsultatie |
+| <a href="README.md">Home</a> | <a href="introduction-nl.md">Inleiding</a> | <a href="questions-nl.md">Onze voorstellen en vragen</a> | Reageren op de marktconsultatie  |
 | -------- | -------- | -------- | -------- | -------- |
