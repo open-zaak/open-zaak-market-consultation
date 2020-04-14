@@ -17,13 +17,13 @@ The OpenZaak codebase helps Dutch municipalities comply with the [VNG standard f
 
 The participating municipalities are now looking for interested vendors to support them in implementing the codebase (including in the development, maintenance, implementation and support). The ambition is to have a healthy open source community in which vendors are empowered to grow the market for OpenZaak, and procurement is simplified and standardized.
 
-For this, we believe it is important to have an open and collaborative community, including a single codebase with a common governance structure and a shared understanding on bug fixes and support. More information on the municipalities’ needs, draft vision, and open questions can be found in [our proposals and questions](https://hackmd.io/XJ0rLW4pQXCJjZIw9A7ArQ) and the [draft governance document](governance.md).
+For this, we believe it is important to have an open and collaborative community, including a single codebase with a common governance structure and a shared understanding on bug fixes and support. More information on the municipalities’ needs, draft vision, and open questions can be found in [our proposals and questions](questions-en.md) and the [draft governance document](governance.md).
 
 ## About this market consultation
 
-Market parties interested in participating are asked to carefully [review our proposals](https://hackmd.io/XJ0rLW4pQXCJjZIw9A7ArQ) and respond to the questions listed there.
+Market parties interested in participating are asked to carefully [review our proposals](questions-en.md) and respond to the questions listed there.
 
-Answers must be received by Niels Lindeboom before 1-5-2020. Based on these answers, market parties may be invited to one or several workshops together with the municipalities to define how to set up the OpenZaak community. More information about this market consultation process can be found in [how to respond](https://hackmd.io/AQOmgrpSQIeMVC4OhFxKDA).
+Answers must be received by Niels Lindeboom before 1-5-2020. Based on these answers, market parties may be invited to one or several workshops together with the municipalities to define how to set up the OpenZaak community. More information about this market consultation process can be found in [how to respond](how-to-respond-en.md).
 
 This market consultation is being run by [Dimpact](https://www.dimpact.nl/), on behalf of the OpenZaak municipalities, supported by the [Foundation for Public Code](https://publiccode.net/).
 
