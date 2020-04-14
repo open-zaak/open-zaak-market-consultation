@@ -9,9 +9,9 @@ URL: Open-Zaak/market-consultation/questions-en.md
 
 This page contains three sections:
 
-- Vision for an open source community - a draft vision for what the OpenZaak community could look like
-- Needs of municipalities - an indicative overview of kinds of support the municipalities need from vendors
-- Market consultation questions - an overview of our open questions to market parties
+* Vision for an open source community - a draft vision for what the OpenZaak community could look like
+* Needs of municipalities - an indicative overview of kinds of support the municipalities need from vendors
+* Market consultation questions - an overview of our open questions to market parties
 
 ## Vision for an open source community
 
@@ -23,11 +23,11 @@ For vendors it is important to grow the number of replicating municipalities (in
 
 Without knowing all the answers in detail, our vision for this community includes:
 
-- collaborating on a single, vendor-neutral codebase and shared branching model, avoiding diverging forks
-- collaborative governance, including around shared roadmaps (feature and technical) and open issue tracker
-- a shared understanding of how to approach bug fixes and support, particularly in situations of operational downtime or security risks
-- an inclusive community (including open communication channels, codebase marketing material and codes of conduct) that is welcoming to new market parties and new replicating municipalities
-- empowering vendors to become effective members and ambassadors of the community
+* collaborating on a single, vendor-neutral codebase and shared branching model, avoiding diverging forks
+* collaborative governance, including around shared roadmaps (feature and technical) and open issue tracker
+* a shared understanding of how to approach bug fixes and support, particularly in situations of operational downtime or security risks
+* an inclusive community (including open communication channels, codebase marketing material and codes of conduct) that is welcoming to new market parties and new replicating municipalities
+* empowering vendors to become effective members and ambassadors of the community
 
 ## Needs of municipalities
 
@@ -37,13 +37,13 @@ The lists below set out needs all municipalities will have, as well as three ‘
 
 ### Needs all municipalities have
 
-- Need connection with external databases/sets (i.e. basisgegevens)
-- Need to retain ownership of data, and continuous access to the data
-- Need easy data portability (for example for legally required archiving)
-- Need vendors who contribute to the OpenZaak main repository (including [EUPL license](https://github.com/open-zaak/open-zaak/blob/master/LICENSE.md))
-- Need to remain in sync with the [VNG standards](https://www.vngrealisatie.nl/producten/api-standaarden-zaakgericht-werken)
-- Need to influence the feature roadmap
-- Need vendors to use OpenZaak in all products and services that create or use case management data
+* Need connection with external databases/sets (i.e. basisgegevens)
+* Need to retain ownership of data, and continuous access to the data
+* Need easy data portability (for example for legally required archiving)
+* Need vendors who contribute to the OpenZaak main repository (including [EUPL license](https://github.com/open-zaak/open-zaak/blob/master/LICENSE.md))
+* Need to remain in sync with the [VNG standards](https://www.vngrealisatie.nl/producten/api-standaarden-zaakgericht-werken)
+* Need to influence the feature roadmap
+* Need vendors to use OpenZaak in all products and services that create or use case management data
 
 ### ‘Full service’ package needs
 
@@ -51,13 +51,13 @@ Some municipalities need a full service package. This includes hosting, implemen
 
 They need market parties to offer:
 
-- hosting support
-- implementation support
-- maintenance support
-- new feature and bug fix support
-- integration support
-- a helpdesk, configuration support, questions and training
-- a way to file bug fixes and deploy hotfixes
+* hosting support
+* implementation support
+* maintenance support
+* new feature and bug fix support
+* integration support
+* a helpdesk, configuration support, questions and training
+* a way to file bug fixes and deploy hotfixes
 
 ### ‘Backend as a service’ needs
 
@@ -65,11 +65,11 @@ Some municipalities need ‘Backend as a service’. They are able to run other 
 
 They need market parties to offer:
 
-- an integration partner
-- clear continuous integration/continuous development
-- a sandbox environment
-- a way to file bug fixes and deploy hotfixes
-- a helpdesk, configuration support, questions and training
+* an integration partner
+* clear continuous integration/continuous development
+* a sandbox environment
+* a way to file bug fixes and deploy hotfixes
+* a helpdesk, configuration support, questions and training
 
 ### In-house implementation needs
 
@@ -77,9 +77,9 @@ Some municipalities will want to implement the component with exclusively in-hou
 
 They need the community to have:
 
-- clear development/contribution guidelines
-- a way to liaise with vendors and other municipalities regarding product and technical roadmap and backlogs
-- a way to fix bugs together with vendors and other municipalities
+* clear development/contribution guidelines
+* a way to liaise with vendors and other municipalities regarding product and technical roadmap and backlogs
+* a way to fix bugs together with vendors and other municipalities
 
 ## Market consultation questions
 
