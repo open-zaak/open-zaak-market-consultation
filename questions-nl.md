@@ -1,7 +1,7 @@
-# Onze voorstellen en vragen
-
 | <a href="README.md">Home</a> | <a href="introduction-nl.md">Inleiding</a> | Onze voorstellen en vragen | <a href="how-to-respond-nl.md">Reageren op de marktconsultatie</a> |
 | -------- | -------- | -------- | -------- |
+
+# Onze voorstellen en vragen
 
 Deze pagina bevat drie onderdelen.
 
