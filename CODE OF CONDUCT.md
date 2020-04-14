@@ -1,10 +1,10 @@
 # DRAFT: OpenZaak Code of Conduct
 
-## Our Pledge
+## Our pledge
 
 In the interest of fostering an open and welcoming environment, we as contributors and maintainers pledge to make participation in our project and our community a positive experience for everyone, regardless of who you are or on whose behalf you are making contributions. 
 
-## Our Standards
+## Our standards
 
 Examples of behavior that contributes to creating a positive environment
 include:
@@ -14,7 +14,7 @@ include:
 * Gracefully accepting constructive criticism
 * Focusing on what is best for the community
 
-## Our Responsibilities
+## Our responsibilities
 
 OpenZaak maintainers are responsible for clarifying the standards of acceptable behavior and are expected to take appropriate and fair corrective action in response to any instances of unacceptable behavior.
 
