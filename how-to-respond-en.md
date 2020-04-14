@@ -1,4 +1,5 @@
-<div class="navoz"><a href="README.md">Home</a> | <a href="introduction-en.md">Introduction</a> | <a href="introduction-en.md">Our proposals and questions</a> | How to respond</div>
+<div style="clear: all;float:left;width: 100%;padding: 1em;margin-bottom: 20px;border: 1px solid #bce8f1;background: #D8ECF7;
+text-align: left;font-size: 100%;line-height: 1.5em;border-radius: 5px;color: #31708f;"><a href="README.md">Home</a> | <a href="introduction-en.md">Introduction</a> | <a href="introduction-en.md">Our proposals and questions</a> | How to respond</div>
 
 # How to respond
 
@@ -38,21 +39,5 @@ We will produce an anonymized report after interested parties have answered the 
 
 This document is for market consultation purposes only. It is made available on the express condition that it will only be used to provide suggestions and ideas. Participation in this market consultation cannot lead to obligations on the part of the participating market parties to enter into agreements with the participating municipalities or Dimpact, and vice versa. Market consultation participation does not entail any reimbursement of costs.
 
-<div class="navoz"><a href="README.md">Home</a> | <a href="introduction-en.md">Introduction</a> | <a href="introduction-en.md">Our proposals and questions</a> | How to respond</div>
-
-<style>
-div.navoz {
-clear: all;
-float:left;
-width: 100%;
-padding: 1em;
-margin-bottom: 20px;
-border: 1px solid #bce8f1;
-background: #D8ECF7;
-text-align: left;
-font-size: 100%;
-line-height: 1.5em;
-border-radius: 5px;
-color: #31708f;
-}
-</style>
+<div style="clear: all;float:left;width: 100%;padding: 1em;margin-bottom: 20px;border: 1px solid #bce8f1;background: #D8ECF7;
+text-align: left;font-size: 100%;line-height: 1.5em;border-radius: 5px;color: #31708f;"><a href="README.md">Home</a> | <a href="introduction-en.md">Introduction</a> | <a href="introduction-en.md">Our proposals and questions</a> | How to respond</div>
