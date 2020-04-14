@@ -1,6 +1,6 @@
 # Onze voorstellen en vragen
 
-<div class="navoz"><a href="https://hackmd.io/b6mszG6HRjyDGRCi72_y2w">Home</a> | <a href="https://hackmd.io/qBwWGvmvSk6IwhabTgsrtw">Inleiding</a> | Onze voorstellen en vragen | <a href="https://hackmd.io/NT4ywg6bSReSgsocu1HFXw">Reageren op de marktconsultatie</a> </div>
+<div class="navoz"><a href="README.md">Home</a> | <a href="introduction-nl.md">Inleiding</a> | Onze voorstellen en vragen | <a href="how-to-respond-nl.md">Reageren op de marktconsultatie</a> </div>
 
 Deze pagina bevat drie onderdelen.
 
@@ -162,21 +162,21 @@ Om de community effectief te laten schalen, gaan we ervan uit dat er een set neu
 2. Wat voor invloed wilt u hebben op dit materiaal en de website?
 3. Moeten leveranciers contractueel worden gevraagd om, wat ze hebben geleerd bij het implementeren en ondersteunen van OpenZaak, toe te voegen aan het OpenZaak marketingmateriaal (inclusief bijvoorbeeld user testimonials, business cases, etc)?
 
-<div class="navoz"><a href="https://hackmd.io/b6mszG6HRjyDGRCi72_y2w">Home</a> | <a href="https://hackmd.io/qBwWGvmvSk6IwhabTgsrtw">Inleiding</a> | Onze voorstellen en vragen | <a href="https://hackmd.io/NT4ywg6bSReSgsocu1HFXw">Reageren op de marktconsultatie</a> </div>
+<div class="navoz"><a href="README.md">Home</a> | <a href="introduction-nl.md">Inleiding</a> | Onze voorstellen en vragen | <a href="how-to-respond-nl.md">Reageren op de marktconsultatie</a> </div>
 
 <style>
 div.navoz {
-clear: all; 
-float:left; 
-width: 100%; 
+clear: all;
+float:left;
+width: 100%;
 padding: 1em;
-margin-bottom: 20px; 
-border: 1px solid #bce8f1; 
-background: #D8ECF7; 
-text-align: left; 
-font-size: 100%; 
-line-height: 1.5em; 
-border-radius: 5px; 
+margin-bottom: 20px;
+border: 1px solid #bce8f1;
+background: #D8ECF7;
+text-align: left;
+font-size: 100%;
+line-height: 1.5em;
+border-radius: 5px;
 color: #31708f;
 }
 </style>

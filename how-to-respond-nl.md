@@ -1,4 +1,4 @@
-<div class="navoz"><a href="https://hackmd.io/b6mszG6HRjyDGRCi72_y2w">Home</a> | <a href="https://hackmd.io/qBwWGvmvSk6IwhabTgsrtw">Inleiding</a> | <a href="https://hackmd.io/OFGiBKmLSh6ug7Gpv3Hbzw">Onze voorstellen en vragen</a> | Reageren op de marktconsultatie</div>
+<div class="navoz"><a href="README.md">Home</a> | <a href="introduction-nl.md">Inleiding</a> | <a href="questions-nl.md">Onze voorstellen en vragen</a> | Reageren op de marktconsultatie</div>
 
 # Hoe te reageren
 
@@ -38,21 +38,21 @@ Nadat de geïnteresseerde partijen de vragen uit het marktconsultatiedocument he
 
 Dit document is alleen bestemd voor marktconsultatie doeleinden. Het wordt ter beschikking gesteld onder de uitdrukkelijke voorwaarde dat het uitsluitend gebruikt wordt om suggesties en ideeën aan te reiken. Een deelname aan deze marktconsultatie kan niet leiden tot verplichtingen van de deelnemende marktpartijen om overeenkomsten met de deelnemende gemeenten of Dimpact aan te gaan, en vice versa. Aan de deelname van de marktconsultatie is geen vergoeding van kosten verbonden.
 
-<div class="navoz"><a href="https://hackmd.io/b6mszG6HRjyDGRCi72_y2w">Home</a> | <a href="https://hackmd.io/qBwWGvmvSk6IwhabTgsrtw">Inleiding</a> | <a href="https://hackmd.io/OFGiBKmLSh6ug7Gpv3Hbzw">Onze voorstellen en vragen</a> | Reageren op de marktconsultatie</div>
+<div class="navoz"><a href="README.md">Home</a> | <a href="introduction-nl.md">Inleiding</a> | <a href="questions-nl.md">Onze voorstellen en vragen</a> | Reageren op de marktconsultatie</div>
 
 <style>
 div.navoz {
-clear: all; 
-float:left; 
-width: 100%; 
+clear: all;
+float:left;
+width: 100%;
 padding: 1em;
-margin-bottom: 20px; 
-border: 1px solid #bce8f1; 
-background: #D8ECF7; 
-text-align: left; 
-font-size: 100%; 
-line-height: 1.5em; 
-border-radius: 5px; 
+margin-bottom: 20px;
+border: 1px solid #bce8f1;
+background: #D8ECF7;
+text-align: left;
+font-size: 100%;
+line-height: 1.5em;
+border-radius: 5px;
 color: #31708f;
 }
 </style>
