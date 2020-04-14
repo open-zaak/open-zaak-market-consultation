@@ -12,7 +12,7 @@ As a community we want make it easier for new users to become contributors and m
 The OpenZaak community adheres to the following principles:
 
 * OpenZaak is open source.
-* We're a welcoming and respectful community as mentioned in our [Code of Conduct](code-of-conduct.md).
+* We're a welcoming and respectful community as mentioned in our [Code of Conduct](#Code of Conduct).
 * Transparent and accessible, changes to the OpenZaak organization, OpenZaak code repositories, and OpenZaak related activities (e.g. level, involvement, etc) are done in public.
 * Ideas and contributions are accepted according to their technical merit and alignment with project objectives, scope, and design principles.
 
