@@ -1,6 +1,7 @@
 # Introduction: Open invitation for market parties to join the OpenZaak community
 
-<div class="navoz"><a href="https://hackmd.io/b6mszG6HRjyDGRCi72_y2w">Home</a> | Introduction | <a href="https://hackmd.io/OFGiBKmLSh6ug7Gpv3Hbzw">Our proposals and questions</a> | <a href="https://hackmd.io/AQOmgrpSQIeMVC4OhFxKDA">How to respond</a></div>
+| <a href="https://hackmd.io/b6mszG6HRjyDGRCi72_y2w">Home</a> | Introduction | <a href="https://hackmd.io/OFGiBKmLSh6ug7Gpv3Hbzw">Our proposals and questions</a> | <a href="https://hackmd.io/AQOmgrpSQIeMVC4OhFxKDA">How to respond</a> |
+| -------- | -------- | -------- | -------- |
 
 OpenZaak is an open source codebase commissioned by a coalition representing over 45 municipalities including Amsterdam, Arnhem, Delft, Haarlem, ’s-Hertogenbosch, Rotterdam, Tilburg, Hoorn, Medemblik, Utrecht, SED (composed of Stede Broec, Enkhuizen and Drechterland) and Dimpact (composed of more than 30 municipalities).
 
@@ -26,21 +27,5 @@ Answers must be received by Niels Lindeboom before 1-5-2020. Based on these answ
 
 This market consultation is being run by [Dimpact](https://www.dimpact.nl/), on behalf of the OpenZaak municipalities, supported by the [Foundation for Public Code](https://publiccode.net/).
 
-<div class="navoz"><a href="https://hackmd.io/b6mszG6HRjyDGRCi72_y2w">Home</a> | Introduction | <a href="https://hackmd.io/OFGiBKmLSh6ug7Gpv3Hbzw">Our proposals and questions</a> | <a href="https://hackmd.io/AQOmgrpSQIeMVC4OhFxKDA">How to respond</a></div>
-
-<style>
-div.navoz {
-clear: all; 
-float:left; 
-width: 100%; 
-padding: 1em;
-margin-bottom: 20px; 
-border: 1px solid #bce8f1; 
-background: #D8ECF7; 
-text-align: left; 
-font-size: 100%; 
-line-height: 1.5em; 
-border-radius: 5px; 
-color: #31708f;
-}
-</style>
+| <a href="https://hackmd.io/b6mszG6HRjyDGRCi72_y2w">Home</a> | Introduction | <a href="https://hackmd.io/OFGiBKmLSh6ug7Gpv3Hbzw">Our proposals and questions</a> | <a href="https://hackmd.io/AQOmgrpSQIeMVC4OhFxKDA">How to respond</a> |
+| -------- | -------- | -------- | -------- |
