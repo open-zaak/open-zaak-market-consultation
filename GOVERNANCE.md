@@ -65,7 +65,7 @@ Responsibilities of the product steering team:
 
 Members are appointed by the current product steering team members.
 
-Changes in codebase governance can only be done by the product steering team and requires super majority (2/3).
+Changes in codebase governance can only be done by the product steering team and requires supermajority (2/3).
 
 The current team members are:
 
@@ -80,9 +80,9 @@ When a consensus cannot be found a team member can call for a majority vote on a
 Many of the day-to-day project maintenance tasks can be done by a lazy consensus model. But the following items must be called to vote:
 
 * Adding a team member (simple majority)
-* Removing a team member (super majority)
-* Changing the governance rules (this document) (super majority) 
-* Licensing and intellectual property changes (including new logos, wordmarks) (simple majority)
+* Removing a team member (supermajority)
+* Changing the governance rules (this document) (supermajority)
+* Licensing and intellectual property changes (including new logos, wordmarks) (supermajority)
 * Adding, archiving, or removing subprojects (simple majority)
 
 ## Code of Conduct
