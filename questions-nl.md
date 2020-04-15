@@ -21,7 +21,7 @@ Zonder alle antwoorden in detail te kennen, omvat onze visie voor de community:
 
 * samenwerken aan één leverancier-neutrale codebase en shared branchingmodel, waarbij uiteenlopende forks worden vermeden
 * collaborative governance, inclusief rond gedeelde roadmaps (feature en technical) en open issue tracker
-* een gedeeld inzicht in hoe bugfixes en -ondersteuning kunnen worden aangepakt, met name in situaties van operationele downtime of beveiligingsrisico's
+* een gedeeld inzicht in hoe bugfixes en ondersteuning kunnen worden aangepakt, met name in situaties van operationele downtime of beveiligingsrisico's
 * een inclusieve community (inclusief open communicatiekanalen, codebase marketingmateriaal en codes of conduct) die nieuwe marktpartijen en nieuwe deelnemende gemeenten verwelkomt
 * leveranciers in staat stellen om effectieve leden en ambassadeurs van de community te worden
 

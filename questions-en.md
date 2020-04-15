@@ -131,7 +131,7 @@ There will be a central, public and prioritised issue tracker for features and b
 
 #### Assumptions
 
-Many municipalities will prefer to have a single provider they can call for all their needs. This ranges from questions, bugs, ideas for new features, technical integration, training, configuration of permissions/authorisation, notifications, and so forth. Our assumption is that in many cases, no single vendor will want to or be able to provide all these services.
+Many municipalities will prefer to have a single provider they can call for all their needs. This ranges from questions, bugs, ideas for new features, technical integration and training to configuration of permissions/authorisation, notifications, and so forth. Our assumption is that in many cases, no single vendor will want to or be able to provide all these services.
 
 #### Questions
 

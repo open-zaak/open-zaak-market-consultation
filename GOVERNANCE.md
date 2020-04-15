@@ -14,7 +14,7 @@ The OpenZaak community adheres to the following principles:
 * OpenZaak is open source.
 * We're a welcoming and respectful community as mentioned in our [Code of Conduct](GOVERNANCE.md#Code-of-Conduct).
 * Transparent and accessible, changes to the OpenZaak organization, OpenZaak code repositories, and OpenZaak related activities (e.g. level, involvement, etc) are done in public.
-* Ideas and contributions are accepted according to their technical merit and alignment with project objectives, scope, and design principles.
+* Ideas and contributions are accepted according to their technical and functional merit and alignment with project objectives, scope, and design principles.
 
 The maintainers of OpenZaak have two steering teams, a technical one and a product one.
 
@@ -44,7 +44,7 @@ The technical steering team has the joint responsibility to:
 * Managing and planning releases
 * Controlling rights to Open Zaak assets such as source repositories
 
-The technical steering team meets regularly. Their agenda includes reivew of the technical roadmap and issues that are at an impasse. The intention of the agenda is not to review or approve all patches. This is mainly being done through the process described in the contributing guide.
+The technical steering team meets regularly. Their agenda includes review of the technical roadmap and issues that are at an impasse. The intention of the agenda is not to review or approve all patches. This is mainly being done through the process described in the contributing guide.
 
 If more than one technical steering team member disagrees with a decision of the technical steering team they may appeal to the product steering team who will make the ultimate ruling.
 
