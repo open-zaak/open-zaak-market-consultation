@@ -39,7 +39,7 @@ The current team members are:
 The technical steering team has the joint responsibility to:
 
 * Provide technical direction for the codebase
-* Maintain a technical roadmap, an architecure and coding principles
+* Maintain a technical roadmap, architecture and coding principles
 * Resolve issues in development or conflicts between contributors
 * Managing and planning releases
 * Controlling rights to Open Zaak assets such as source repositories
@@ -65,7 +65,7 @@ Responsibilities of the product steering team:
 
 Members are appointed by the current product steering team members.
 
-Changes in codebase governance can only be done by the product steering team and requires super majority. 
+Changes in codebase governance can only be done by the product steering team and requires super majority (2/3).
 
 The current team members are:
 

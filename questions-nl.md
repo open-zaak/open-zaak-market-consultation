@@ -81,7 +81,7 @@ Zij moeten in de community samenwerken aan:
 
 Deze sectie bevat een lijst met open vragen. Elk deel bevat onze huidige veronderstellingen en een reeks open vragen die we willen bespreken met de leveranciersgemeenschap.
 
-Let op: vragen zijn indicatief, we horen graag uw mening over elk van de punten in deze bijlage.
+Let op: vragen zijn indicatief, we horen graag jouw mening over elk van de punten in deze bijlage.
 
 ### 1. Single shared codebase
 
@@ -111,7 +111,7 @@ Deze marktconsultatie omvat een [ontwerpvoorstel van een governancestructuur](go
 2. Wat zijn de uitdagingen die u voorziet bij het onderhouden van open backlogs bij uw klanten?
 3. Wie moet verantwoordelijk zijn voor het bijwerken van de shared roadmap? U, de gemeenten, of een gedeelde verantwoordelijkheid?
 4. Hoe wilt u de gedeelde feature en technical roadmap kunnen beïnvloeden?
-5. Hoe wilt u dat de community omgaat met het ontwikkelen, eens worden en onderhouden van gedeelde engineering en contributing guidelines?
+5. Hoe wilt u dat de community omgaat met het ontwikkelen, eens worden over en onderhouden van gedeelde engineering en contributing guidelines?
 6. Welke risico’s ziet u in het werken in zo'n omgeving?
 
 ### 3. Bugs en bug fixes
@@ -143,7 +143,7 @@ Veel gemeenten zullen de voorkeur geven aan één enkele leverancier die ze kunn
 
 #### Veronderstellingen
 
-De OpenZaak API's zijn gebaseerd op een VNG standaard, de [API's voor zaakgericht werken](https://www.vngrealisatie.nl/producten/api-standaarden-zaakgericht-werken). De standaard wordt continu onderhouden en verbeterd en OpenZaak moet daaraan blijven voldoen. Deze updates moeten worden gepropageerd over de centrale repository-branche, evenals repositories die marktpartijen gebruiken om hun diensten te leveren (zoals backend-as-a-service).
+De OpenZaak API's zijn gebaseerd op een VNG standaard, de [API's voor zaakgericht werken](https://www.vngrealisatie.nl/producten/api-standaarden-zaakgericht-werken). De standaard wordt continu onderhouden en verbeterd en OpenZaak moet daaraan blijven voldoen. Deze updates moeten worden gepropageerd naar de centrale repository-branche, evenals repositories die marktpartijen gebruiken om hun diensten te leveren (zoals backend-as-a-service).
 
 #### Vragen
 
