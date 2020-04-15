@@ -20,7 +20,7 @@ Voor leveranciers is het belangrijk om het aantal deelnemende gemeenten te laten
 Zonder alle antwoorden in detail te kennen, omvat onze visie voor de community:
 
 * samenwerken aan één leverancier-neutrale codebase en shared branchingmodel, waarbij uiteenlopende forks worden vermeden
-* collaborative governance, inclusief rond gedeelde roadmaps (feature en technical) en open issue tracker
+* governance op basis van samenwerking, waarbij ook wordt samengewerkt rond gedeelde roadmaps  (feature en technical) en openbare issue tracker
 * een gedeeld inzicht in hoe bugfixes en ondersteuning kunnen worden aangepakt, met name in situaties van operationele downtime of beveiligingsrisico's
 * een inclusieve community (inclusief open communicatiekanalen, codebase marketingmateriaal en codes of conduct) die nieuwe marktpartijen en nieuwe deelnemende gemeenten verwelkomt
 * leveranciers in staat stellen om effectieve leden en ambassadeurs van de community te worden
