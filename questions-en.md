@@ -20,7 +20,7 @@ For vendors it is important to grow the number of replicating municipalities (in
 Without knowing all the answers in detail, our vision for this community includes:
 
 * collaborating on a single, vendor-neutral codebase and shared branching model, avoiding diverging forks
-* collaborative governance, including around shared roadmaps (feature and technical) and open issue tracker
+* governance based on collaboration, including around shared roadmaps (feature and technical) and public issue tracker
 * a shared understanding of how to approach bug fixes and support, particularly in situations of operational downtime or security risks
 * an inclusive community (including open communication channels, codebase marketing material and codes of conduct) that is welcoming to new market parties and new replicating municipalities
 * empowering vendors to become effective members and ambassadors of the community
@@ -131,7 +131,7 @@ There will be a central, public and prioritised issue tracker for features and b
 
 #### Assumptions
 
-Many municipalities will prefer to have a single provider they can call for all their needs. This ranges from questions, bugs, ideas for new features, technical integration, training, configuration of permissions/authorisation, notifications, and so forth. Our assumption is that in many cases, no single vendor will want to or be able to provide all these services.
+Many municipalities will prefer to have a single provider they can call for all their needs. This ranges from questions, bugs, ideas for new features, technical integration and training to configuration of permissions/authorisation, notifications, and so forth. Our assumption is that in many cases, no single vendor will want to or be able to provide all these services.
 
 #### Questions
 
