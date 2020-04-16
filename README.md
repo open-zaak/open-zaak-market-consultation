@@ -36,8 +36,8 @@ OpenZaak codebase
 
 * OpenZaak [README](https://github.com/open-zaak/open-zaak/blob/master/README.rst) (Nederlands)
 * OpenZaak [CONTRIBUTING](https://github.com/open-zaak/open-zaak/blob/master/CONTRIBUTING.md) (English)
-* Draft of a potential [GOVERNANCE.md](GOVERNANCE.md) file (English)
-* Draft of a potential [CODE_OF_CONDUCT.md](CODE_OF_CONDUCT.md) file (English)
+* Draft of a potential [GOVERNANCE](GOVERNANCE.md) file (English)
+* Draft of a potential [CODE_OF_CONDUCT](CODE_OF_CONDUCT.md) file (English)
 
 How to respond / Hoe te reageren
 
