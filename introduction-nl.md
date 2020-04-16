@@ -1,8 +1,8 @@
-# Inleiding: Open uitnodiging voor marktpartijen om lid te worden van de OpenZaak community
-
 | <a href="README.md">Home</a> | Inleiding | <a href="questions-nl.md">Onze voorstellen en vragen</a> | <a href="how-to-respond-nl.md">Reageren op de marktconsultatie</a> |
 | -------- | -------- | -------- | -------- |
- 
+
+# Inleiding: Open uitnodiging voor marktpartijen om lid te worden van de OpenZaak community
+
 OpenZaak is een open source codebase gebouwd in opdracht van een coalitie van meer dan 45 gemeenten waaronder Amsterdam, Arnhem, Delft, Haarlem, 's-Hertogenbosch, Rotterdam, Tilburg, Hoorn, Medemblik, Utrecht, SED (bestaande uit Stede Broec, Enkhuizen en Drechterland) en Dimpact (bestaande uit meer dan 30 gemeenten).
 
 De eerste productierijpe iteratie was afgerond in februari 2020. De OpenZaak-community is nu op zoek naar marktpartijen om mee te denken over hoe het schaalbare leveranciersnetwerk en de community eruit zouden kunnen zien. OpenZaak heeft de potentie om op te schalen naar alle Nederlandse gemeenten.

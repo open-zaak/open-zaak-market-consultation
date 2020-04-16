@@ -1,7 +1,7 @@
-# Introduction: Open invitation for market parties to join the OpenZaak community
-
 | <a href="README.md">Home</a> | Introduction | <a href="questions-en.md">Our proposals and questions</a> | <a href="how-to-respond-en.md">How to respond</a> |
 | -------- | -------- | -------- | -------- |
+
+# Introduction: Open invitation for market parties to join the OpenZaak community
 
 OpenZaak is an open source codebase commissioned by a coalition representing over 45 municipalities including Amsterdam, Arnhem, Delft, Haarlem, ’s-Hertogenbosch, Rotterdam, Tilburg, Hoorn, Medemblik, Utrecht, SED (composed of Stede Broec, Enkhuizen and Drechterland) and Dimpact (composed of more than 30 municipalities).
 
