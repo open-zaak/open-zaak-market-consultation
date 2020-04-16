@@ -73,7 +73,7 @@ The current team members are:
 
 ## Decision making process
 
-The default decision making process is lazy-consensus. This means that any decision is considered supported by the team making it as long as no one objects. Silence on any consensus decision is implicit agreement and equivalent to explicit agreement. Explicit agreement may be stated at will.
+The default decision making process is lazy consensus. This means that any decision is considered supported by the team making it as long as no one objects. Silence on any consensus decision is implicit agreement and equivalent to explicit agreement. Explicit agreement may be stated at will.
 
 When a consensus cannot be found a team member can call for a majority vote on a decision. Every team member has 1 vote.
 
