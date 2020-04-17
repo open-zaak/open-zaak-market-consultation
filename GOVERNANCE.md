@@ -3,7 +3,7 @@
 
 ## Introduction
 
-This document contains a draft proposal for the 'governance.md' file on the OpenZaak repository.
+This document contains a draft proposal for the 'GOVERNANCE.md' file on the OpenZaak repository.
 
 ## Principles
 
