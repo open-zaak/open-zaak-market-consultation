@@ -17,7 +17,7 @@ De OpenZaak codebase helpt Nederlandse gemeenten om te voldoen aan de [VNG-stand
 
 De deelnemende gemeenten zijn op zoek naar geïnteresseerde leveranciers om hen te ondersteunen bij de implementatie van de codebase (onder meer in de ontwikkeling, onderhoud, implementatie en ondersteuning). De ambitie is om een gezonde open source community te hebben waarin leveranciers de mogelijkheid krijgen om de markt voor OpenZaak te laten groeien, en waarin inkoop wordt vereenvoudigd en gestandaardiseerd.
 
-Hiervoor vinden we het belangrijk om een open en samenwerkende gemeenschap te hebben, inclusief één codebase met een gemeenschappelijke governancestructuur en een gedeeld begrip over bugfixes en ondersteuning. Meer informatie over de behoeften, conceptvisie en open vragen van de gemeenten is te vinden in [onze voorstellen en vragen](questions-nl.md) en het [draft governance.md document](governance.md).
+Hiervoor vinden we het belangrijk om een open en samenwerkende gemeenschap te hebben, inclusief één codebase met een gemeenschappelijke governancestructuur en een gedeeld begrip over bugfixes en ondersteuning. Meer informatie over de behoeften, conceptvisie en open vragen van de gemeenten is te vinden in [onze voorstellen en vragen](questions-nl.md) en het [draft governance.md document](GOVERNANCE.md).
 
 ## Over deze marktconsultatie
 

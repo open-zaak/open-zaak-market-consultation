@@ -103,7 +103,7 @@ We would like to facilitate an open community at scale, including collaboration 
 
 Our vision is to enable collaboration between multiple municipalities and vendors working on the codebase together. For this, we assume we will need shared governance for the codebase. This could include: a) an open shared issue and bug tracker, b) an open and shared feature roadmap, and c) an open and shared technical roadmap. This will also include engineering and contributing guidelines, as well as open communication channels.
 
-This market consultation includes a [draft proposal for a governance structure](governance.md) for open discussion.
+This market consultation includes a [draft proposal for a governance structure](GOVERNANCE.md) for open discussion.
 
 #### Questions
 

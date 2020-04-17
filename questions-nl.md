@@ -103,7 +103,7 @@ We willen een open community op schaal faciliteren, inclusief samenwerking op ee
 
 Onze visie is om samenwerking mogelijk te maken tussen meerdere gemeenten en leveranciers, die samen aan de codebase werken. Hiervoor is een gedeeld bestuur nodig voor de codebase. Dit kan onder meer het volgende behelzen: a) een open en gedeelde issue en bug tracker, b) een open en gedeelde feature roadmap, en c) een open en gedeelde technical roadmap. Dit omvat ook engineering en contributing guidelines, evenals open communicatiekanalen.
 
-Deze marktconsultatie omvat een [ontwerpvoorstel van een governancestructuur](governance.md) voor open discussie.
+Deze marktconsultatie omvat een [ontwerpvoorstel van een governancestructuur](GOVERNANCE.md) voor open discussie.
 
 #### Vragen
 
