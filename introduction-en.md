@@ -17,7 +17,7 @@ The OpenZaak codebase helps Dutch municipalities comply with the [VNG standard f
 
 The participating municipalities are now looking for interested vendors to support them in implementing the codebase (including in the development, maintenance, implementation and support). The ambition is to have a healthy open source community in which vendors are empowered to grow the market for OpenZaak, and procurement is simplified and standardized.
 
-For this, we believe it is important to have an open and collaborative community, including a single codebase with a common governance structure and a shared understanding on bug fixes and support. More information on the municipalities’ needs, draft vision, and open questions can be found in [our proposals and questions](questions-en.md) and the [draft governance document](governance.md).
+For this, we believe it is important to have an open and collaborative community, including a single codebase with a common governance structure and a shared understanding on bug fixes and support. More information on the municipalities’ needs, draft vision, and open questions can be found in [our proposals and questions](questions-en.md) and the [draft governance document](GOVERNANCE.md).
 
 ## About this market consultation
 
