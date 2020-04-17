@@ -8,7 +8,7 @@
 
 Het doel van deze marktconsultatie is om marktpartijen uit te nodigen bij het opzetten van de OpenZaak-community. Dit omvat het mede creëren van codebase-governance, de gemeenschapsdynamiek en de product marketing rondom OpenZaak, op een manier die u in staat stelt een duurzaam bedrijfsmodel na te streven.
 
-Hieronder vindt u een inleiding, een reeks voorstellen en vragen, een voorstel voor governance.md, en informatie over hoe u op deze consultatie kunt reageren. **Deze reacties dienen uiterlijk op 1-5-2020 vóór 17:00 uur ontvangen te zijn.**
+Hieronder vindt u een inleiding, een reeks voorstellen en vragen, een voorstel voor GOVERNANCE.md, en informatie over hoe u op deze consultatie kunt reageren. **Deze reacties dienen uiterlijk op 1-5-2020 vóór 17:00 uur ontvangen te zijn.**
 
 Als je vragen hebt over deze consultatie, aarzel dan niet om [een issue aan te maken](https://github.com/open-zaak/open-zaak-market-consultation/issues/new/choose) of e-mail Niels Lindeboom op <niels.lindeboom@dimpact.nl>.
 
@@ -16,7 +16,7 @@ Als je vragen hebt over deze consultatie, aarzel dan niet om [een issue aan te m
 
 The goal of this market consultation is to invite market parties to help set up the OpenZaak community. This includes co-creating codebase governance, community dynamics, and the product marketing around OpenZaak in a way that allows you to pursue a sustainable business model.
 
-Below you can find an introductory cover letter, a set of proposals and questions, a draft governance.md, and how to respond to this consultation. **Responses should be received by 1-5-2020 before 17:00.**
+Below you can find an introductory cover letter, a set of proposals and questions, a draft GOVERNANCE.md, and how to respond to this consultation. **Responses should be received by 1-5-2020 before 17:00.**
 
 If you have any questions about this consultation, please feel free to [create an issue](https://github.com/open-zaak/open-zaak-market-consultation/issues/new/choose) or email Niels Lindeboom at <niels.lindeboom@dimpact.nl>.
 
