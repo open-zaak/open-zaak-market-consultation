@@ -1,7 +1,7 @@
-# Onze voorstellen en vragen
-
 | <a href="README.md">Home</a> | <a href="introduction-nl.md">Inleiding</a> | Onze voorstellen en vragen | <a href="how-to-respond-nl.md">Reageren op de marktconsultatie</a> |
 | -------- | -------- | -------- | -------- |
+
+# Onze voorstellen en vragen
 
 Deze pagina bevat drie onderdelen.
 
@@ -20,8 +20,8 @@ Voor leveranciers is het belangrijk om het aantal deelnemende gemeenten te laten
 Zonder alle antwoorden in detail te kennen, omvat onze visie voor de community:
 
 * samenwerken aan één leverancier-neutrale codebase en shared branchingmodel, waarbij uiteenlopende forks worden vermeden
-* collaborative governance, inclusief rond gedeelde roadmaps (feature en technical) en open issue tracker
-* een gedeeld inzicht in hoe bugfixes en -ondersteuning kunnen worden aangepakt, met name in situaties van operationele downtime of beveiligingsrisico's
+* governance op basis van samenwerking, waarbij ook wordt samengewerkt rond gedeelde roadmaps  (feature en technical) en openbare issue tracker
+* een gedeeld inzicht in hoe bugfixes en ondersteuning kunnen worden aangepakt, met name in situaties van operationele downtime of beveiligingsrisico's
 * een inclusieve community (inclusief open communicatiekanalen, codebase marketingmateriaal en codes of conduct) die nieuwe marktpartijen en nieuwe deelnemende gemeenten verwelkomt
 * leveranciers in staat stellen om effectieve leden en ambassadeurs van de community te worden
 
@@ -81,7 +81,7 @@ Zij moeten in de community samenwerken aan:
 
 Deze sectie bevat een lijst met open vragen. Elk deel bevat onze huidige veronderstellingen en een reeks open vragen die we willen bespreken met de leveranciersgemeenschap.
 
-Let op: vragen zijn indicatief, we horen graag uw mening over elk van de punten in deze bijlage.
+Let op: vragen zijn indicatief, we horen graag jouw mening over elk van de punten in deze bijlage.
 
 ### 1. Single shared codebase
 
@@ -103,7 +103,7 @@ We willen een open community op schaal faciliteren, inclusief samenwerking op ee
 
 Onze visie is om samenwerking mogelijk te maken tussen meerdere gemeenten en leveranciers, die samen aan de codebase werken. Hiervoor is een gedeeld bestuur nodig voor de codebase. Dit kan onder meer het volgende behelzen: a) een open en gedeelde issue en bug tracker, b) een open en gedeelde feature roadmap, en c) een open en gedeelde technical roadmap. Dit omvat ook engineering en contributing guidelines, evenals open communicatiekanalen.
 
-Deze marktconsultatie omvat een [ontwerpvoorstel van een governancestructuur](governance.md) voor open discussie.
+Deze marktconsultatie omvat een [ontwerpvoorstel van een governancestructuur](GOVERNANCE.md) voor open discussie.
 
 #### Vragen
 
@@ -111,7 +111,7 @@ Deze marktconsultatie omvat een [ontwerpvoorstel van een governancestructuur](go
 2. Wat zijn de uitdagingen die u voorziet bij het onderhouden van open backlogs bij uw klanten?
 3. Wie moet verantwoordelijk zijn voor het bijwerken van de shared roadmap? U, de gemeenten, of een gedeelde verantwoordelijkheid?
 4. Hoe wilt u de gedeelde feature en technical roadmap kunnen beïnvloeden?
-5. Hoe wilt u dat de community omgaat met het ontwikkelen, eens worden en onderhouden van gedeelde engineering en contributing guidelines?
+5. Hoe wilt u dat de community omgaat met het ontwikkelen, eens worden over en onderhouden van gedeelde engineering en contributing guidelines?
 6. Welke risico’s ziet u in het werken in zo'n omgeving?
 
 ### 3. Bugs en bug fixes
@@ -143,7 +143,7 @@ Veel gemeenten zullen de voorkeur geven aan één enkele leverancier die ze kunn
 
 #### Veronderstellingen
 
-De OpenZaak API's zijn gebaseerd op een VNG standaard, de [API's voor zaakgericht werken](https://www.vngrealisatie.nl/producten/api-standaarden-zaakgericht-werken). De standaard wordt continu onderhouden en verbeterd en OpenZaak moet daaraan blijven voldoen. Deze updates moeten worden gepropageerd over de centrale repository-branche, evenals repositories die marktpartijen gebruiken om hun diensten te leveren (zoals backend-as-a-service).
+De OpenZaak API's zijn gebaseerd op een VNG standaard, de [API's voor zaakgericht werken](https://www.vngrealisatie.nl/producten/api-standaarden-zaakgericht-werken). De standaard wordt continu onderhouden en verbeterd en OpenZaak moet daaraan blijven voldoen. Deze updates moeten worden gepropageerd naar de centrale repository-branche, evenals repositories die marktpartijen gebruiken om hun diensten te leveren (zoals backend-as-a-service).
 
 #### Vragen
 

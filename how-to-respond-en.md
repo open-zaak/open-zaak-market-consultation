@@ -17,10 +17,10 @@ We want to use your experience, inspiration and brainpower to come to the right 
 
 The market consultation consists of two parts:
 
-1. A written response to our questions. We're deliberately not restricting the form and length of your answers. These responses should be received by 1-5-2020 before 17:00. You can send your answers to niels.lindeboom@dimpact.nl. Based on your responses we will review our proposal and adjust it if there are good suggestions. This modified proposal will then become the starting point for the workshop (part two of the consultation).
+1. A written response to our questions. We're deliberately not restricting the form and length of your answers. These responses should be received by 1-5-2020 before 17:00. You can send your answers to <niels.lindeboom@dimpact.nl>. Based on your responses we will review our proposal and adjust it if there are good suggestions. This modified proposal will then become the starting point for the workshop (part two of the consultation).
 2. Optional: one or more workshops where together we will determine the various needs and prerequisites within the community (participation only on request of OpenZaak). After submitting your answers, you will receive a message no later than 13-5-2020 if you are invited for the workshop. This will take place on 20th and 21st of May 2020. With the invitation you will receive further information about the exact time and location.
 
-Dimpact is responsible for the communication about this market consultation. You can contact Niels Lindeboom at <niels.lindeboom@dimpact.nl> or 06-22270923.
+Dimpact is responsible for communication about this market consultation. You can contact Niels Lindeboom at <niels.lindeboom@dimpact.nl> or 06-22270923.
 
 ## Market consultation report
 

@@ -1,7 +1,7 @@
-# Introduction: Open invitation for market parties to join the OpenZaak community
-
 | <a href="README.md">Home</a> | Introduction | <a href="questions-en.md">Our proposals and questions</a> | <a href="how-to-respond-en.md">How to respond</a> |
 | -------- | -------- | -------- | -------- |
+
+# Introduction: Open invitation for market parties to join the OpenZaak community
 
 OpenZaak is an open source codebase commissioned by a coalition representing over 45 municipalities including Amsterdam, Arnhem, Delft, Haarlem, ’s-Hertogenbosch, Rotterdam, Tilburg, Hoorn, Medemblik, Utrecht, SED (composed of Stede Broec, Enkhuizen and Drechterland) and Dimpact (composed of more than 30 municipalities).
 
@@ -17,7 +17,7 @@ The OpenZaak codebase helps Dutch municipalities comply with the [VNG standard f
 
 The participating municipalities are now looking for interested vendors to support them in implementing the codebase (including in the development, maintenance, implementation and support). The ambition is to have a healthy open source community in which vendors are empowered to grow the market for OpenZaak, and procurement is simplified and standardized.
 
-For this, we believe it is important to have an open and collaborative community, including a single codebase with a common governance structure and a shared understanding on bug fixes and support. More information on the municipalities’ needs, draft vision, and open questions can be found in [our proposals and questions](questions-en.md) and the [draft governance document](governance.md).
+For this, we believe it is important to have an open and collaborative community, including a single codebase with a common governance structure and a shared understanding on bug fixes and support. More information on the municipalities’ needs, draft vision, and open questions can be found in [our proposals and questions](questions-en.md) and the [draft governance document](GOVERNANCE.md).
 
 ## About this market consultation
 
