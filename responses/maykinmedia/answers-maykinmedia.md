@@ -70,11 +70,11 @@ Het hebben van een uitgebreide testsuite met CI maakt het up-to-date blijven en 
 
 Ja, want:
 
-   1. Geschreven in een van de populairste programmeertalen (bron).
-   2. Een testsuite die 96% van de code doorloopt (bron en bron).
-   3. Ontwikkelaar, systeembeheerder en functionele documentatie beschikbaar (bron).
-   4. Geteste REST API’s volgens de API standaarden van VNG (bron).
-   5. Code wordt automatisch gecontroleerd op leesbaarheid en codestijl (bron).
+   1. Geschreven in een van de populairste programmeertalen ([bron](https://www.tiobe.com/tiobe-index/)).
+   2. Een testsuite die 96% van de code doorloopt ([bron](https://codecov.io/gh/open-zaak/open-zaak) en [bron](https://travis-ci.org/github/open-zaak/open-zaak)).
+   3. Ontwikkelaar, systeembeheerder en functionele documentatie beschikbaar ([bron](https://open-zaak.readthedocs.io/en/latest/)).
+   4. Geteste REST API’s volgens de API standaarden van VNG ([bron](https://api-test.nl/server/1/224fd5be-bc64-4d55-a190-454bee3cc8e3/14bc91f7-7d8b-4bba-a020-a6c316655e65/latest/)).
+   5. Code wordt automatisch gecontroleerd op leesbaarheid en codestijl ([bron](https://travis-ci.org/github/open-zaak/open-zaak)).
 
 OpenZaak is een set API’s die als microservice kan worden gebruikt in een landschap dat bestaat uit bronnen ontsloten door API’s en applicaties die deze API’s gebruiken.
 
