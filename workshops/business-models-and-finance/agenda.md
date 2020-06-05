@@ -23,22 +23,17 @@ Includes:
 ### Breakout workshops
 
 * 14:00 - 15:30 Breakout into two groups for collaborative session
-
   * Introduction: Explain Miro (10 min)
- 
   * Round 1: Possible business opportunities (30 mins)
       * Q 1.1) How can OpenZaak help your company make money and be successful?
       * Q 1.2) What other ways could OpenZaak help companies be successful in the future and/or different contexts?
       * A 1.3) Each participant adds 3 post-its per question, and group votes on services to take to round 2.
-
-  * 14:40 Break: Tidy notes (10 mins)
-
+  * Break: Tidy notes (10 mins)
   * Round 2: Creating business opportunities (40 min)
       * Q 2.1) For each business opportunity, who could be willing to pay for this? 
       * Q 2.2) What payment mechanisms could be used for this? (e.g.: subscription based, fixed open dev budget, bug bounty rewards, innovation vouchers)
       * A 2.3) Each participant adds 3 post-its per question & prioitise 
       * Q 2.4) Discussion: What do you need to get started?
-
   * Workflow:
      * Groups: Each group has  1 representative from a municipality, and 1 representative from each participating market party, and 1 facilitator from Foundation for Public Code,
     * Process: 
@@ -46,7 +41,5 @@ Includes:
         2. Facilitator reads out, asks clarification, and clusters the stickies, people can disagree
         3. Vote on cluster with group
         5. Discuss prioritised ones
-
 * 15:30 - 15:40 Break
-
 * 15:40 - 16:00 Closing, reflections & next steps
