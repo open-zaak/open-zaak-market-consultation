@@ -21,5 +21,6 @@ How to set up the codebase governance for OpenZaak in an open and collaborative 
 * 10:00 - 11:30 Breakout into two groups for collaborative working sessions  
 
 ### Closing
+
 * 11:30 - 11:40 Break  
 * 11:40 - 12:00 Closing, reflections & next steps  
