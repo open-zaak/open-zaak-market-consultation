@@ -16,6 +16,7 @@ Includes:
 13:00 - 13:05 Welcome & Opening  
 13:05 - 13:30 Introduction round  
   * Name, organization, and 1 person per market party respond to 'how can OpenZaak create value for my business?'  
+
 13:30 - 13:35 Inspirational story  
 13:35 - 13:50 Inspiration from Common ground, Utrecht, and OpenZaak  
 13:50 - 13:55 Introduction to the breakout workshops  
