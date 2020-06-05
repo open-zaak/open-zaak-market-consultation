@@ -11,8 +11,9 @@ Develop a shared vision on the potential risks around relying on OpenZaak in a p
 09:00 - 09:05 Opening
 09:05 - 09:30 Introduction round
   * Name, organization and 'the biggest risk you would see if you relied on OpenZaak'?
-09:30 - 09:45 What are the municipalities looking for, a view from Amsterdam and Haarlem?
-09:45 - 09:50 Introduction to the breakout workshops
+  
+09:30 - 09:45 What are the municipalities looking for, a view from Amsterdam and Haarlem?  
+09:45 - 09:50 Introduction to the breakout workshops  
 09:50 - 10:00 Break
 
 ### Breakout workshops
@@ -31,6 +32,5 @@ Develop a shared vision on the potential risks around relying on OpenZaak in a p
   * Q2.1) Mapping what, who and how for the 1st, 2nd and expert support lines
   * Q2.2) Mapping what, who and how for hotfixes, issues and ownership over support processes
 
-11:30 - 11:40 Break
-
+11:30 - 11:40 Break  
 11:40 - 12:00 Closing, reflections & next steps
