@@ -43,7 +43,7 @@ Includes:
   3. Vote on cluster with group
   4. Discuss prioritised ones  
 
-## Closing
+### Closing
 
 15:30 - 15:40 Break  
 15:40 - 16:00 Closing, reflections & next steps  
