@@ -8,8 +8,8 @@ Develop a shared vision on the potential risks around relying on OpenZaak in a p
 
 ### Introduction
 
-09:00 - 09:05 Opening
-09:05 - 09:30 Introduction round
+09:00 - 09:05 Opening  
+09:05 - 09:30 Introduction round  
   * Name, organization and 'the biggest risk you would see if you relied on OpenZaak'?
   
 09:30 - 09:45 What are the municipalities looking for, a view from Amsterdam and Haarlem?  
