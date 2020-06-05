@@ -10,7 +10,7 @@ How to set up the codebase governance for OpenZaak in an open and collaborative 
 
 09:00 - 09:05 Opening  
 09:05 - 09:30 Introduction round  
-* Name, organization and "what influence does your organization want to have on the OpenZaak repository?" 
+* Name, organization and "what influence does your organization want to have on the OpenZaak repository?"   
 09:30 - 09:45 Governance: the ZaakGerichtWerken standard, OpenZaak, and codebase governance  
 09:45 - 09:50 Introduction to the breakout workshops  
 09:50 - 10:00 Break  
