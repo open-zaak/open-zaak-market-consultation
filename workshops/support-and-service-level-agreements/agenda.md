@@ -32,5 +32,7 @@ Develop a shared vision on the potential risks around relying on OpenZaak in a p
   * Q2.1) Mapping what, who and how for the 1st, 2nd and expert support lines
   * Q2.2) Mapping what, who and how for hotfixes, issues and ownership over support processes
 
+### Closing
+
 11:30 - 11:40 Break  
 11:40 - 12:00 Closing, reflections & next steps
