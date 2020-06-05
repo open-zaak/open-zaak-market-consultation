@@ -40,6 +40,6 @@ Includes:
   1. Everyone puts 3 stickies per question (2x3) with "NAME: Clear short description"
   2. Facilitator reads out, asks clarification, and clusters the stickies, people can disagree
   3. Vote on cluster with group
-  4. Discuss prioritised ones
-15:30 - 15:40 Break 
+  4. Discuss prioritised ones  
+15:30 - 15:40 Break  
 15:40 - 16:00 Closing, reflections & next steps  
