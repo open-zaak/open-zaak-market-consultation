@@ -21,22 +21,22 @@ How to set up the codebase governance for OpenZaak in an open and collaborative 
 
 ### Breakout workshops:
 
-09:40 - 11:30 Breakout into two groups for collaborative working sessions  
+Breakout into two groups for collaborative working sessions  
 
-  09:40 - 09:45 Introduction to miro and the cards  
-  09:45 - 10:20 Round 1: Formulating governance  
-        1.1) Fork or push: What is your understanding of a shared OpenZaak codebase?  
-        1.2) Start with governance game, attempting to map out and discuss governance.md as is
+09:40 - 09:45 Introduction to miro and the cards  
+09:45 - 10:20 Round 1: Formulating governance  
+      1.1) Fork or push: What is your understanding of a shared OpenZaak codebase?  
+      1.2) Start with governance game, attempting to map out and discuss governance.md as is
     
-  10:20 - 10:25 Break  
+10:20 - 10:25 Break  
     
-  10:25 - 11:00 Round 2: Testing governance  
-      2) Stress test scenarios  
-          2.1) Vendor determines a severe security issue affecting everyone using openzaak codebase components. The vendor creates a fix and pushes this fix upstream to the central repository. How will others get this fix?  
-          2.2) There is a disagreement about the technical roadmap, one vendor is threatening to make a hard fork, what does the rest of the community do?  
-          2.3) A new functionality breaks compatability with older release?  
+10:25 - 11:00 Round 2: Testing governance  
+    2) Stress test scenarios  
+        2.1) Vendor determines a severe security issue affecting everyone using openzaak codebase components. The vendor creates a fix and pushes this fix upstream to the central repository. How will others get this fix?  
+        2.2) There is a disagreement about the technical roadmap, one vendor is threatening to make a hard fork, what does the rest of the community do?  
+        2.3) A new functionality breaks compatability with older release?  
           
-  11:00 - 11:30 Round 3: Learnings and reflections - drafting and creating issues on governance.md
+11:00 - 11:30 Round 3: Learnings and reflections - drafting and creating issues on governance.md
 
 ### Closing
 
