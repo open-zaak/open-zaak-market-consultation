@@ -36,7 +36,7 @@ How to set up the codebase governance for OpenZaak in an open and collaborative 
           2.2) There is a disagreement about the technical roadmap, one vendor is threatening to make a hard fork, what does the rest of the community do?  
           2.3) A new functionality breaks compatability with older release?  
           
-  11:00 - 11:30 Round 3: Learnings and reflections
+  11:00 - 11:30 Round 3: Learnings and reflections - drafting and creating issues on governance.md
 
 ### Closing
 
