@@ -25,7 +25,7 @@ How to set up the codebase governance for OpenZaak in an open and collaborative 
 
   09:40 - 09:45 Introduction to miro and the cards  
   09:45 - 10:20 Round 1: Formulating governance  
-        1.1) Fork or push: What is your understanding of a shared OpenZaak codebase?
+        1.1) Fork or push: What is your understanding of a shared OpenZaak codebase?  
         1.2) Start with governance game, attempting to map out and discuss governance.md as is
     
   10:20 - 10:25 Break  
