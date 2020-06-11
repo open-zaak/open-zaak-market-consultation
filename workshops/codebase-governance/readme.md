@@ -12,7 +12,11 @@ How to set up the codebase governance for OpenZaak in an open and collaborative 
 09:05 - 09:25 Introduction round  
 * Name, organization and "what influence does your organization want to have on the OpenZaak repository?"
 
-09:25 - 09:35 Governance: the ZaakGerichtWerken standard, OpenZaak, and codebase governance  
+09:25 - 09:35 Governance: the ZaakGerichtWerken standard, OpenZaak, and codebase governance
+ * [Diagram on codebase governance](https://github.com/publiccodenet/about/blob/8fec62d3b47610b38ee7c713d34955b5a1f9f19c/activities/codebase-stewardship/supporting-governance/index.md)
+ * [OpenZaak Governance.md](https://github.com/open-zaak/open-zaak/blob/34c8cb4c37c9995e67c960082d8edc65f03f4286/GOVERNANCE.md)
+ * [repository for API Standard](https://github.com/VNG-Realisatie/gemma-zaken)
+  
 09:35 - 09:40 Introduction to the breakout workshops  
 
 ### Breakout workshops:
