@@ -53,8 +53,6 @@ Three workshops were held, to cover different topics that had been deemed import
 * [Support, bugs and SLA](workshops/business-models-and-finance/)
 * [Governance](workshops/codebase-governance/)
 
-Based on these workshops these [conclusions](conclusions.md) were drawn.
-
 ## Timeline
 
 * 2020-04-14 The market consulation questions were published
