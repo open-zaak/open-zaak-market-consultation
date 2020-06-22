@@ -2,25 +2,16 @@
 
 :tada: Welcome to the OpenZaak market consultation! :tada:
 
-:tada: Welkom bij de OpenZaak marktconsultatie! :tada:
+This is the archive of a market consultation where market parties were invited to help lay the foundation for a community around OpenZaak. This included co-creating codebase governance, community dynamics, and the product marketing around OpenZaak with the purpose of enabling market parties to pursue a sustainable business model.
 
-## Nederlands
+Working from some assumptions that were co-created by the participating municipalities and Dimpact a set of questions were published. Eleven responses were submitted, and some of them were also published publicly in this archive. From these responses a number of workshops were prepared and executed. Thanks to the workshops some conclusions could be drawn. Below you can find all material that was created during this process.
 
-Het doel van deze marktconsultatie is om marktpartijen uit te nodigen bij het opzetten van de OpenZaak-community. Dit omvat het mede creëren van codebase-governance, de gemeenschapsdynamiek en de product marketing rondom OpenZaak, op een manier die u in staat stelt een duurzaam bedrijfsmodel na te streven.
+## Consultation contents
 
-Hieronder vindt u een inleiding, een reeks voorstellen en vragen, een voorstel voor GOVERNANCE.md, en informatie over hoe u op deze consultatie kunt reageren. **Deze reacties dienen uiterlijk op 1-5-2020 vóór 17:00 uur ontvangen te zijn.**
+Original README cover page
+* [Dual language](cover-page.md)
 
-Als je vragen hebt over deze consultatie, aarzel dan niet om [een issue aan te maken](https://github.com/open-zaak/open-zaak-market-consultation/issues/new/choose) of e-mail Niels Lindeboom op <niels.lindeboom@dimpact.nl>.
-
-## English
-
-The goal of this market consultation is to invite market parties to help set up the OpenZaak community. This includes co-creating codebase governance, community dynamics, and the product marketing around OpenZaak in a way that allows you to pursue a sustainable business model.
-
-Below you can find an introductory cover letter, a set of proposals and questions, a draft GOVERNANCE.md, and how to respond to this consultation. **Responses should be received by 1-5-2020 before 17:00.**
-
-If you have any questions about this consultation, please feel free to [create an issue](https://github.com/open-zaak/open-zaak-market-consultation/issues/new/choose) or email Niels Lindeboom at <niels.lindeboom@dimpact.nl>.
-
-## Consultation contents / Consultatie inhoud
+### Market consultation questions
 
 Introduction / Inleiding
 
@@ -32,14 +23,46 @@ Our proposals and questions / Onze voorstellen en vragen
 * [English](questions-en.md)
 * [Nederlands](questions-nl.md)
 
-OpenZaak codebase
+How to respond / Hoe te reageren
+
+* [English](how-to-respond-en.md)
+* [Nederlands](how-to-respond-nl.md)
+
+#### Appendix: OpenZaak codebase
 
 * OpenZaak [README](https://github.com/open-zaak/open-zaak/blob/master/README.rst) (Nederlands)
 * OpenZaak [CONTRIBUTING](https://github.com/open-zaak/open-zaak/blob/master/CONTRIBUTING.md) (English)
 * Draft of a potential [GOVERNANCE](GOVERNANCE.md) file (English)
 * Draft of a potential [CODE_OF_CONDUCT](CODE_OF_CONDUCT.md) file (English)
 
-How to respond / Hoe te reageren
+### Responses
 
-* [English](how-to-respond-en.md)
-* [Nederlands](how-to-respond-nl.md)
+All respondees were invited to publish their response in this repository, here are the ones that chose to do so:
+
+* [Mintlab](responses/mintlab/answers-mintlab.md)
+* [Maykin Media](responses/maykinmedia/answers-maykinmedia.md)
+* [Exxellence](responses/open-zaak-marktconsultatie-exxellence.md)
+
+Any respondee are welcome to submit a pull request to add their response to this repository.
+
+### Workshops
+
+Three workshops were held, to cover different topics that had been deemed important to address by the participating municipalities based on the responses that had been submitted. The areas covered were Business models and finance, Support, bugs and SLA and Governance. The raw data from these workshops can be found in the folders linked below. In the folders you can find agendas, workshop workboards and screenshots.
+
+* [Business models and finance](workshops/support-and-service-level-agreements/)
+* [Support, bugs and SLA](workshops/business-models-and-finance/)
+* [Governance](workshops/codebase-governance/)
+
+Based on these workshops these [conclusions](conclusions.md) were drawn.
+
+## Timeline
+
+* 2020-04-14 The market consulation questions were published
+* 2020-05-01 Deadline for responses
+* 2020-05 Responses were evaluated and market parties were invited to workshops
+* 2020-05-29 The business models and finance workshop
+* 2020-06-03 The Support, bugs and SLA workshop
+* 2020-06-10 The governance workshop
+
+## Questions
+If you have any questions about this consultation, please feel free to [create an issue](https://github.com/open-zaak/open-zaak-market-consultation/issues/new/choose) or email Niels Lindeboom at <niels.lindeboom@dimpact.nl>.
