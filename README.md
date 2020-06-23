@@ -4,7 +4,7 @@
 
 This is the archive of a market consultation where market parties were invited to help lay the foundation for a community around OpenZaak. This included co-creating codebase governance, community dynamics, and the product marketing around OpenZaak with the purpose of enabling market parties to pursue a sustainable business model.
 
-Working from some assumptions that were co-created by the participating municipalities and Dimpact a set of questions were published. Eleven responses were submitted, and some of them were also published publicly in this archive. From these responses a number of workshops were prepared and executed. Thanks to the workshops some conclusions could be drawn. Below you can find all material that was created during this process.
+A set of questions were developed based on assumptions that were co-created by Dimpact and the participating municipalities. Eleven responses were submitted, and some of them were also published publicly in this archive. From these responses a number of workshops were prepared and executed. Thanks to the workshops some conclusions could be drawn. Below you can find all material that was created during this process.
 
 ## Consultation contents
 
@@ -43,11 +43,11 @@ All respondees were invited to publish their response in this repository, here a
 * [Maykin Media](responses/maykinmedia/answers-maykinmedia.md)
 * [Exxellence](responses/open-zaak-marktconsultatie-exxellence.md)
 
-Any respondee are welcome to submit a pull request to add their response to this repository.
+Any respondee is welcome to submit a pull request to add their response to this repository.
 
 ### Workshops
 
-Three workshops were held, to cover different topics that had been deemed important to address by the participating municipalities based on the responses that had been submitted. The areas covered were Business models and finance, Support, bugs and SLA and Governance. The raw data from these workshops can be found in the folders linked below. In the folders you can find agendas, workshop workboards and screenshots.
+Three workshops were held to cover different topics that had been deemed important to address by the participating municipalities based on the responses that had been submitted. The areas covered were Business models and finance, Support, bugs and SLA and Governance. The raw data from these workshops can be found in the folders linked below. In the folders you can find agendas, workshop workboards and screenshots.
 
 * [Business models and finance](workshops/support-and-service-level-agreements/)
 * [Support, bugs and SLA](workshops/business-models-and-finance/)
