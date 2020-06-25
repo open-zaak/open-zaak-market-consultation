@@ -4,7 +4,7 @@
 
 This is the archive of a market consultation where market parties were invited to help lay the foundation for a community around OpenZaak. This included co-creating codebase governance, community dynamics, and the product marketing around OpenZaak with the purpose of enabling market parties to pursue a sustainable business model.
 
-A set of questions were developed based on assumptions that were co-created by Dimpact and the participating municipalities. Eleven responses were submitted, and some of them were also published publicly in this archive. From these responses a number of workshops were prepared and executed. Thanks to the workshops some conclusions could be drawn. Below you can find all material that was created during this process.
+A set of questions were developed based on assumptions that were co-created by Dimpact and the participating municipalities. Eleven responses were submitted, and some of them were also published publicly in this archive. From these responses three workshops were prepared and executed. Thanks to the workshops some conclusions could be drawn. Below you can find all material that was created during this process.
 
 ## Consultation contents
 
