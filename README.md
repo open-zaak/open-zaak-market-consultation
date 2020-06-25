@@ -47,7 +47,7 @@ Any respondee is welcome to submit a pull request to add their response to this 
 
 ### Workshops
 
-Three workshops were held to cover different topics that had been deemed important to address by the participating municipalities based on the responses that had been submitted. The areas covered were Business models and finance, Support, bugs and SLA and Governance. The raw data from these workshops can be found in the folders linked below. In the folders you can find agendas, workshop workboards and screenshots.
+Three workshops were held to cover different topics that had been deemed important to address by the participating municipalities based on the responses that had been submitted. The areas covered were Business models and finance; Support, bugs and SLA; and Governance. The raw data from these workshops can be found in the folders linked below. In the folders you can find agendas, workshop workboards and screenshots.
 
 * [Business models and finance](workshops/support-and-service-level-agreements/)
 * [Support, bugs and SLA](workshops/business-models-and-finance/)
