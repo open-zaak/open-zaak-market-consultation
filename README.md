@@ -9,7 +9,7 @@ A set of questions were developed based on assumptions that were co-created by D
 ## Consultation contents
 
 Original README cover page
-* [Dual language](cover-page.md)
+* [Dual language - Dutch and English](cover-page.md)
 
 ### Market consultation questions
 
